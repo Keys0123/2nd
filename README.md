@@ -1,2 +1,2 @@
 y# 2nd
-bann
+ban
